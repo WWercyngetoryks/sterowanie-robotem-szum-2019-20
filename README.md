@@ -1,12 +1,12 @@
 # sterowanie-robotem-szum-2019/2020
 
 Zrodlo modelu i kontrolerow robota: https://github.com/ReactRobotics/DogBotV4
-
+...bat
 D poprawnego dzialania wymagana jest instalalcja ros_melodic oraz ros_control
 dla UBuntu 18.04:
 $ sudo apt install ros-melodic-desktop-full
 $ sudo apt-get install ros-melodic-ros-control ros-melodic-ros-controllers
-
+...
 W celu stowrzenia projektu nalezy utworzyc sciezke dla projektu:
 
 Terminal1:
