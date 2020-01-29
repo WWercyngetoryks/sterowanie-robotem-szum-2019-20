@@ -2,7 +2,7 @@
 
 Zrodlo modelu i kontrolerow robota: https://github.com/ReactRobotics/DogBotV4
 
-![Alt Text](https://github.com/WWercyngetoryks/sterowanie-robotem-szum-2019-20/blob/master/ten.gif) width="40" height="40" />
+![Alt Text](https://github.com/WWercyngetoryks/sterowanie-robotem-szum-2019-20/blob/master/ten.gif) 
 
 
 
