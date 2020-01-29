@@ -17,6 +17,7 @@ $ mkdir src
 ```
 Nastepnie nalezy sklonowac repozytorium do folderu src, oraz stowrzyc projekt:
 ```bat
+Terminal1:
 $ cd src
 $ git clone https://github.com/WWercyngetoryks/sterowanie-robotem-szum-2019-20.git
 $ cd ..
