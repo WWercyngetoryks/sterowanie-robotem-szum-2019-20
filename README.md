@@ -35,8 +35,9 @@ W Terminal1 wlaczamy symulacje robota:
 ```bat
 Terminal1:
 $ roslaunch dogbot_gazebo gztest.launch
-
+```
 lub
+```bat
 Nowy_terminal:
 $ cd catkin_ws
 $ roslaunch dogbot_gazebo gztest.launch
