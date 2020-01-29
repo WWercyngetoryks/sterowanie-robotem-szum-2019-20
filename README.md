@@ -39,5 +39,6 @@ Nowy_terminal:
 $ cd catkin_ws
 $ roslaunch dogbot_gazebo gztest.launch
 
+
 Nastepnie w lokalizacji matlab_prog nalezy uruchomic przy pomocy matlaba plik main_prog.m.
 
